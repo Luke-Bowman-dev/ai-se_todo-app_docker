@@ -28,7 +28,6 @@ jobs:
 
       - name: Lint
         run: npm run lint
-jobs:
   validate-client:
     runs-on: ubuntu-latest
     defaults:
